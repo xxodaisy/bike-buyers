@@ -28,7 +28,7 @@ The dataset was sourced from a YouTube data analysis tutorial using Excel. I ext
 ## 🛠️ Data Processing & Analysis
 
 
-**1️⃣ Data Cleaning (Excel & Google Sheets)**
+### **1️⃣ Data Cleaning (Excel & Google Sheets)**
 
 ✅ Removed duplicate records
 
@@ -37,8 +37,7 @@ The dataset was sourced from a YouTube data analysis tutorial using Excel. I ext
 ✅ Ensured data consistency
 
 
-
-**2️⃣ SQL Analysis (PostgreSQL)**
+### **2️⃣ SQL Analysis (PostgreSQL)**
 
 Created a structured database for bike buyers
 
@@ -56,7 +55,7 @@ Imported and queried the data to uncover key insights, such as:
 
 🔹 Regional Trends: Which regions have higher bike sales?
 
-## 💾 SQL Table Schema
+### 💾 SQL Table Schema
 
 ```sql
 CREATE TABLE bike_buyers (
@@ -77,7 +76,7 @@ CREATE TABLE bike_buyers (
 ```
 
 
-**3️⃣ Python Analysis – Regression Modeling**
+### **3️⃣ Python Analysis – Regression Modeling**
 
 Using Python, I performed regression analysis to predict customer income based on key features.
 
