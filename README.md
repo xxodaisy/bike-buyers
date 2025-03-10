@@ -87,6 +87,7 @@ CREATE TABLE bike_buyers (
 ```
 
 **3️⃣ Python Analysis – Regression Modeling**
+
 Using Python, I performed regression analysis to predict customer income based on key features.
 
 📌 Steps Taken:
@@ -102,11 +103,11 @@ Using Python, I performed regression analysis to predict customer income based o
 
 ## 📌 Regression Results:
 
-Mean Squared Error (MSE): {value}
+- Mean Squared Error (MSE): {value}
 
-R-squared Score: {value}
+- R-squared Score: {value}
 
-Regression Coefficients: {value}
+- Regression Coefficients: {value}
 
 ## 📌 Key Libraries Used:
 ```python
