@@ -8,36 +8,25 @@ This is a personal project aimed at improving my analytical skills in data analy
 
 The dataset consists of multiple features that impact bike purchase decisions, including:
 
-🆔 ID
-
-💍 Marital Status
-
-🚻 Gender
-
-💰 Income
-
-👶 Children
-
-🎓 Education
-
-💼 Occupation
-
-🏠 Home Ownership
-
-🚗 Number of Cars
-
-🚶‍♂️ Commute Distance
-
-🌍 Region
-
-🎂 Age
-
-🚲 Purchased Bike (Yes/No)
+- ID
+- Marital Status
+- Gender
+- Income
+- Children
+- Education
+- Occupation
+- Home Ownership
+- Number of Cars
+- Commute Distance
+- Region
+- Age
+- Purchased Bike (Yes/No)
 
 ## 📥 Data Source
 The dataset was sourced from a YouTube data analysis tutorial using Excel. I extended the analysis by incorporating SQL, Python, and Power BI to gain deeper insights.
 
 ## 🛠️ Data Processing & Analysis
+
 
 **1️⃣ Data Cleaning (Excel & Google Sheets)**
 
@@ -46,6 +35,7 @@ The dataset was sourced from a YouTube data analysis tutorial using Excel. I ext
 ✅ Checked for missing values (no nulls found)
 
 ✅ Ensured data consistency
+
 
 
 **2️⃣ SQL Analysis (PostgreSQL)**
@@ -86,6 +76,7 @@ CREATE TABLE bike_buyers (
 );
 ```
 
+
 **3️⃣ Python Analysis – Regression Modeling**
 
 Using Python, I performed regression analysis to predict customer income based on key features.
@@ -103,11 +94,9 @@ Using Python, I performed regression analysis to predict customer income based o
 
 ## 📌 Regression Results:
 
-- Mean Squared Error (MSE): {value}
-
-- R-squared Score: {value}
-
-- Regression Coefficients: {value}
+- Mean Squared Error (MSE): 780015841.8593309
+- R-squared Score: 0.20746004550983832
+- Regression Coefficients: 55587.5
 
 ## 📌 Key Libraries Used:
 ```python
@@ -123,16 +112,13 @@ from sklearn.metrics import mean_squared_error, r2_score
 
 I used Power BI to create interactive dashboards, showcasing:
 
-📊 Customer Demographics Distribution
-
-📊 Income vs. Bike Purchases
-
-📊 Commute Distance & Purchase Trends
-
-📊 Occupation Influence on Bike Sales
+- Customer Demographics Distribution
+- Income vs. Bike Purchases
+- Commute Distance & Purchase Trends
+- Occupation Influence on Bike Sales
 
 ## 📌 Conclusion
 
-The analysis provided valuable insights into the factors influencing bike purchases. You can read the full report here on Medium.
+The analysis provided valuable insights into the factors influencing bike purchases. You can read the full report [here on Medium](https://medium.com/@ciaamoons/bike-buyers-dataset-data-analysis-project-e379ed89c3a3).
 
 Thank you for reading! 🚀
