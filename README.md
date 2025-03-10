@@ -97,7 +97,7 @@ Using Python, I performed regression analysis to predict customer income based o
 - R-squared Score: 0.20746004550983832
 - Regression Coefficients: 55587.5
 
-## 📌 Key Libraries Used:
+## 📌 Key Libraries Used
 ```python
 import pandas as pd
 import numpy as np
@@ -119,5 +119,3 @@ I used Power BI to create interactive dashboards, showcasing:
 ## 📌 Conclusion
 
 The analysis provided valuable insights into the factors influencing bike purchases. You can read the full report [here on Medium](https://medium.com/@ciaamoons/bike-buyers-dataset-data-analysis-project-e379ed89c3a3).
-
-Thank you for reading! 🚀
