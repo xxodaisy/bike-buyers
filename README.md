@@ -39,7 +39,7 @@ The dataset was sourced from a YouTube data analysis tutorial using Excel. I ext
 
 ## 🛠️ Data Processing & Analysis
 
-1️⃣ Data Cleaning (Excel & Google Sheets)
+**1️⃣ Data Cleaning (Excel & Google Sheets)**
 
 ✅ Removed duplicate records
 
@@ -48,7 +48,7 @@ The dataset was sourced from a YouTube data analysis tutorial using Excel. I ext
 ✅ Ensured data consistency
 
 
-2️⃣ SQL Analysis (PostgreSQL)
+**2️⃣ SQL Analysis (PostgreSQL)**
 
 Created a structured database for bike buyers
 
